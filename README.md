@@ -1,4 +1,4 @@
-![IdeateConsulting-banner](assets/img/readme/IdeateConsulting-logo.png)
+![IdeateConsulting-banner](assets/img/readme/ideate-logo.png)
 
 ## Table of Contents
 
@@ -10,10 +10,10 @@
 
 ## Repo Details
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mr-vance/IdeateConsultingConsulting)
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/mr-vance/IdeateConsultingConsulting)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/mr-vance/IdeateConsultingConsulting)
-![GitHub contributors](https://img.shields.io/github/contributors/mr-vance/IdeateConsultingConsulting)
+![GitHub repo size](https://img.shields.io/github/repo-size/mr-vance/ideateConsulting)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/mr-vance/ideateConsulting)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/mr-vance/ideateConsulting)
+![GitHub contributors](https://img.shields.io/github/contributors/mr-vance/ideateConsulting)
 
 ## About
 
