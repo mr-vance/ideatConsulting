@@ -1,4 +1,4 @@
-![IdeateConsulting-banner](assets/img/readme/ideate-logo.png)
+![IdeateConsulting-banner](assets/img/readme/readme.webp)
 
 ## Table of Contents
 
