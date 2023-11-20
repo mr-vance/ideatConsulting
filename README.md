@@ -30,13 +30,13 @@ To clone and run the IdeateConsulting website in your browser, follow these step
 1. **Clone the Repository:** Use Git to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/mr-vance/IdeateConsultingConsulting.git
+   git clone https://github.com/mr-vance/ideateConsulting.git
    ```
 
 2. **Navigate to the Project Directory:** Change your current working directory to the project's root folder.
 
    ```bash
-   cd IdeateConsultingConsulting
+   cd ideateConsulting
    ```
 
 3. **Open any of the the HTML Files:** Open the HTML files in your preferred web browser or by means of the [VS Code Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) if you are using the VS Code IDE:
