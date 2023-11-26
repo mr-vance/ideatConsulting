@@ -80,6 +80,10 @@
 /*=============================
 	Typography css start
 ===============================*/
+html {
+  zoom: 90%;
+}
+
 body {
   font-family: var(--tg-body-font-family);
   font-size: var(--tg-body-font-size);
